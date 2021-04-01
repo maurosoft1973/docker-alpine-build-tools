@@ -1,0 +1,9 @@
+#!/bin/sh
+
+symfony_create() {
+    /usr/local/bin/composer create-project symfony/website-skeleton .
+    /usr/local/bin/composer require logger
+    /usr/local/bin/composer require annotations
+    /usr/local/bin/composer require symfony/profiler-pack
+    /usr/local/bin/symfony check:security
+}
