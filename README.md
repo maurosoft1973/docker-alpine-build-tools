@@ -4,11 +4,11 @@
 [![Docker Pulls](https://img.shields.io/docker/pulls/maurosoft1973/alpine-build-tools.svg?style=for-the-badge&logo=docker)](https://hub.docker.com/r/maurosoft1973/alpine-build-tools/)
 [![Docker Stars](https://img.shields.io/docker/stars/maurosoft1973/alpine-build-tools.svg?style=for-the-badge&logo=docker)](https://hub.docker.com/r/maurosoft1973/alpine-build-tools/)
 
-[![Alpine Version](https://img.shields.io/badge/Alpine%20version-v3.13.3-green.svg?style=for-the-badge)](https://alpinelinux.org/)
+[![Alpine Version](https://img.shields.io/badge/Alpine%20version-v3.13.4-green.svg?style=for-the-badge)](https://alpinelinux.org/)
 
 The Docker images [(maurosoft1973/alpine-build-tools)](https://hub.docker.com/r/maurosoft1973/alpine-build-tools/) is based on the minimal [Alpine Linux](https://alpinelinux.org/).
 
-##### Alpine Version 3.13.3 (Released Mar 25, 2021)
+##### Alpine Version 3.13.4 (Released Mar 31, 2021)
 ##### PHP Version 7.4.15 (Released Feb 04, 2021)
 ##### Composer Version 2.0.8 (Released Dec 03, 2020)
 ##### PHP Unit Version 9.5.4
@@ -74,4 +74,4 @@ build-test:
 ```
 
 ***
-###### Last Update 02.04.2021 10:20:25
+###### Last Update 02.04.2021 13:04:16
